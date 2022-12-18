@@ -42,7 +42,7 @@ public class HtmlConstant {
             return MOVIE_DIV
                     .replace(MOVIE_TITLE, dto.getTitle())
                     .replace(MOVIE_DATE, dto.getReleaseDate())
-                    .replace(MOVIE_IMG_URL, TMDBUtils.getImgUrl_454x254(dto.getPosterPath()))
+                    .replace(MOVIE_IMG_URL, TMDBUtils.getImgUrl_188x282(dto.getPosterPath()))
                     .replace(MOVIE_INTRO, dto.getOverview())
                     .replace(MOVIE_STAR, getStar(dto.getVoteAverage()))
                     ;
