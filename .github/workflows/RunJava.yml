@@ -3,14 +3,14 @@
 name: RunJava
 
 # 两种触发方式：一、push代码，二、每天国际标准时间22点（北京时间+8即早上6点）运行
-#on:
-#  #push:
-#  schedule:
-#    - cron: '0 22 * * *' # https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#scheduled-events-schedule
-
 on:
+  #push:
   schedule:
-    - cron: '*/5 * * * *' # 每5分钟一次，测试用
+    - cron: '0 22 * * *' # https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#scheduled-events-schedule
+
+#on:
+#  schedule:
+#    - cron: '*/5 * * * *' # 每5分钟一次，测试用
 
 jobs:
   OnePieceHtmlGenerator:
