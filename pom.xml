@@ -6,7 +6,7 @@
 
     <groupId>link.aliang</groupId>
     <artifactId>onepiece</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>onepiece</name>
 
     <properties>

@@ -52,7 +52,7 @@ public class OnePieceGenerator {
         cardList.append("|  -  |  -  |  -  | \n");
         cardList.append("|:---:|:---:|:---:| \n");
         cardList.append(clo1
-                .replace("VAR_A", TMDBUtils.getImgUrl_188x282("/4floYRInCRdi6Nk85lLQzGPbV5K.jpg"))
+                .replace("VAR_A", TMDBUtils.getImgUrl_300x450("/4floYRInCRdi6Nk85lLQzGPbV5K.jpg"))
                 .replace("VAR_B", "剧场版")
                 .replace("VAR_C", "" + collections.getParts().size())
                 .replace("VAR_D", DOMAIN + "index.html")
@@ -69,7 +69,7 @@ public class OnePieceGenerator {
             }
             TmdbTv.SeasonsDTO dto = list.get(i);
             cardList.append(clo
-                    .replace("VAR_A", TMDBUtils.getImgUrl_188x282(dto.getPosterPath()))
+                    .replace("VAR_A", TMDBUtils.getImgUrl_300x450(dto.getPosterPath()))
                     .replace("VAR_B", dto.getName())
                     .replace("VAR_C", "" + dto.getEpisodeCount())
                     .replace("VAR_D", DOMAIN + "op/" + HtmlConstant.getSeasonNum(dto.getSeasonNumber()) + ".html")

@@ -27,7 +27,7 @@ if [ -z "$GIT_STATUS" ]; then
 else
   echo "检测到有文件变更，执行提交和推送..."
   git add -A
-  git commit -m '自动更新 👽'
+  git commit -m '👽 自动更新'
   git push
   echo '🎉 🎉 🎉 OnePieceHtml push success 🎉 🎉 🎉'
 fi

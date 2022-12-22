@@ -37,4 +37,3 @@ docs/.vuepress/dist/
 .deploy*/
 package-lock.json
 yarn.lock
-test.sh
