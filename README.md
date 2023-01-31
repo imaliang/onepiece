@@ -2,7 +2,7 @@
 
 这是一个海贼王剧场版+特别篇+剧集的播放信息仓库，每日自动从TMDB获取最新信息。
 
-|  <div style="width:33%">-</div>  |  <div style="width:33%">-</div>  |  <div style="width:33%">-</div>  | 
+|  <div style="width:200px">---</div>  |  <div style="width:200px">---</div>  |  <div style="width:200px">---</div>  | 
 |:---:|:---:|:---:| 
 | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/4floYRInCRdi6Nk85lLQzGPbV5K.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/4floYRInCRdi6Nk85lLQzGPbV5K.jpg) <br> [剧场版 共15集](https://onepiece.aliang.link/index.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/AidpQUAWUfPOVC91u47Ceb9a6Pb.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/AidpQUAWUfPOVC91u47Ceb9a6Pb.jpg) <br> [特别篇 共22集](https://onepiece.aliang.link/op/S00.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/tH0pYsyCcwPVT6bK2AzvocmClMN.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/tH0pYsyCcwPVT6bK2AzvocmClMN.jpg) <br> [第 1 季 东海篇 共61集](https://onepiece.aliang.link/op/S01.html) | 
 | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/tPXGVYMEMbfrn9rfUuRUVodkHNv.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/tPXGVYMEMbfrn9rfUuRUVodkHNv.jpg) <br> [第 2 季 伟大航路突入篇 共16集](https://onepiece.aliang.link/op/S02.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/dhE94iPUZvM17rcrVewijmcf8oC.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/dhE94iPUZvM17rcrVewijmcf8oC.jpg) <br> [第 3 季 冬岛篇 共14集](https://onepiece.aliang.link/op/S03.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/skTBiTJOz1wwgOZ8NodrC5JOvut.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/skTBiTJOz1wwgOZ8NodrC5JOvut.jpg) <br> [第 4 季 阿拉巴斯坦篇 共39集](https://onepiece.aliang.link/op/S04.html) | 
@@ -12,10 +12,3 @@
 | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/seZqgkv7CvviGLqQHt5Tg9UJBov.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/seZqgkv7CvviGLqQHt5Tg9UJBov.jpg) <br> [第 14 季 鱼人岛篇 共58集](https://onepiece.aliang.link/op/S14.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/siSVRGjnGEhf2Vud4T1rzSVhl7j.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/siSVRGjnGEhf2Vud4T1rzSVhl7j.jpg) <br> [第 15 季 庞克哈萨德篇 共62集](https://onepiece.aliang.link/op/S15.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/ryZg2BtRo4MVqEuT3A3KST1noCB.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/ryZg2BtRo4MVqEuT3A3KST1noCB.jpg) <br> [第 16 季 德雷斯罗萨篇1 共50集](https://onepiece.aliang.link/op/S16.html) | 
 | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/1Gcu7XnElckyYX6haN3ipE8Kp64.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/1Gcu7XnElckyYX6haN3ipE8Kp64.jpg) <br> [第 17 季 德雷斯罗萨篇2 共56集](https://onepiece.aliang.link/op/S17.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/w60lVx4BJP6QNyYXtqEpGHLKTWa.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/w60lVx4BJP6QNyYXtqEpGHLKTWa.jpg) <br> [第 18 季 佐乌篇 共55集](https://onepiece.aliang.link/op/S18.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/d5DBnueuh9LXxjMjPVU2DJYACS9.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/d5DBnueuh9LXxjMjPVU2DJYACS9.jpg) <br> [第 19 季 蛋糕岛篇 共74集](https://onepiece.aliang.link/op/S19.html) | 
 | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/ul5FwCLsi20LZIYd5DNI9NbFvNw.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/ul5FwCLsi20LZIYd5DNI9NbFvNw.jpg) <br> [第 20 季 世界会议篇 共14集](https://onepiece.aliang.link/op/S20.html) | ![https://image.tmdb.org/t/p/w300_and_h450_bestv2/957u8IIqwPTgtubSIaBI4bPtGzn.jpg](https://image.tmdb.org/t/p/w300_and_h450_bestv2/957u8IIqwPTgtubSIaBI4bPtGzn.jpg) <br> [第 21 季 和之国篇 共161集](https://onepiece.aliang.link/op/S21.html) | - | 
-
-
-<style>
-tr{
-  width:33%;
-  }
-</style>
