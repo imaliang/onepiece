@@ -68,9 +68,13 @@ public class OnePieceGenerator {
                 clo = "|" + clo + "| \n";
             }
             TmdbTv.SeasonsDTO dto = list.get(i);
+            String name = dto.getName();
+            if (dto.getName().length() > 13) {
+                name = dto.getName().substring(0, 13) + "...";
+            }
             cardList.append(clo
                     .replace("VAR_A", TMDBUtils.getImgUrl_300x450(dto.getPosterPath()))
-                    .replace("VAR_B", dto.getName())
+                    .replace("VAR_B", name)
                     .replace("VAR_C", "" + dto.getEpisodeCount())
                     .replace("VAR_D", DOMAIN + "op/" + HtmlConstant.getSeasonNum(dto.getSeasonNumber()) + ".html")
             );
